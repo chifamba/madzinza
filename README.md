@@ -50,7 +50,7 @@ docker >= 24.0.0
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/madzinza.git
+git clone https://github.com/chifamba/madzinza.git
 
 # Install dependencies
 cd madzinza
@@ -99,7 +99,7 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 - Regular security audits
 - Comprehensive access controls
 
-Report security vulnerabilities to security@madzinza.com
+Report security vulnerabilities to security@-------
 
 ## 📄 License
 
